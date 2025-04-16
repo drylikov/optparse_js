@@ -1,0 +1,12 @@
+{
+    "name": "optparse",
+    "author": "Denis Rylikov",
+    "description": "Command-line option parser",
+    "keywords": ["option", "parser", "command-line", "cli", "terminal"],
+    "version": "1.0.5",
+    "repository": {
+         "type": "git",
+         "url": "git://github.com/drylikov/optparse_js.git"
+     },
+    "main": "./lib/optparse"
+}
